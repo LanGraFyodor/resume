@@ -78,7 +78,7 @@
 
 ## 📂 Мои проекты
 
-[![Reflection Benchmark Gist Card](https://github.com/LanGraFyodor/backend-academy/blob/main/README.md)](https://github.com/LanGraFyodor/backend-academy)
+https://github.com/LanGraFyodor/backend-academy
 
 ---
 
