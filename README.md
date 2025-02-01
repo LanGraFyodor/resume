@@ -1,4 +1,5 @@
-# Привет, я **Фёдор**! 👋
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="Привет, я **Фёдор**! 👋" title="Привет, я **Фёдор**! 👋"/>
+<div align="justify">
 
 > ### Добро пожаловать в мой мир кода!
 > 
