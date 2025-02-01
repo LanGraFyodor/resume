@@ -6,7 +6,6 @@
 > Моя цель — вдохновлять мир через технологии и искусство программирования!  
 > 
 > > *"Код — это магия, превращающая идеи в реальность."*  
-> 
 
 <div align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="coding" width="300"/>
