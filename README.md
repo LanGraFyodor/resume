@@ -10,6 +10,8 @@
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="coding" width="300"/>
 </div>
 
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+
 ---
 
 ## Навыки и технологии которые использую или изучаю
