@@ -6,8 +6,6 @@
 > Моя цель — вдохновлять мир через технологии и искусство программирования!  
 > 
 > > *"Код — это магия, превращающая идеи в реальность."*  
-> 
-> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 <div align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="coding" width="300"/>
